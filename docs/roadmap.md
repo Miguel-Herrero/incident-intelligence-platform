@@ -1,12 +1,12 @@
-# Professional Evolution Plan: Senior Backend → Staff / Systems Architect with AI
+# Professional Evolution Plan: Senior Backend → Systems Architect with AI
 
 ## 1. Context and motivation
 
 ### 1.1. Current situation
 
-- **Current role:** Senior Backend Engineer in critical high-availability systems (mobility / logistics).
+- **Current role:** Senior Backend Engineer in critical high-availability systems.
 - **Main stack:** Go (Golang), Elixir, microservices, Docker, Cloud.
-- **Current AI level:** Absolute beginner (assume “I know nothing”).
+- **Current AI level:** Absolute beginner.
 - **Constraints:**
   - Time: 5–7h / week (weekday evenings + 1 weekend block).
   - Budget: €20–50/month for APIs and tools.
@@ -19,8 +19,6 @@
   - Reliability and observability.
   - Internal AI platforms (AI Platform Engineering).
 - Become **highly employable** in 1–3 years in sectors such as Fintech, DevTools, SRE/Platforms, etc.
-
-***
 
 ## 2. Vision and objectives
 
@@ -60,8 +58,6 @@ Become a profile that:
      - Relevance of the roadmap.
      - Adjustments according to market evolution and your interests.
 
-***
-
 ## 3. Technological strategy
 
 ### 3.1. Go + Python duality
@@ -82,8 +78,6 @@ Become a profile that:
 - Ideal use (phase 2 of roadmap): real-time observability and dashboards with Phoenix LiveView for:
   - Viewing agent behaviour live.
   - Monitoring flows and metrics reactively.
-
-***
 
 ## 4. Target skills (competency map)
 
@@ -429,21 +423,3 @@ When in 3–6 months you want to review this plan with another AI agent (or with
 
 4. **About positioning:**
    - “With this portfolio, how would you write my ‘pitch’ as Staff/Architect in AI for Fintech / DevTools / SRE?”
-
-***
-
-## 9. Closing
-
-This plan is designed to:
-
-- Fit your time and budget constraints.
-- Turn your strengths (Go, distributed systems, Elixir) into a **clear competitive advantage**.
-- Generate not only knowledge, but **demonstrable artefacts**:
-  - Code.
-  - Architecture.
-  - Metrics (evals, costs).
-  - Narrative (articles, README).
-
-You can adjust the level of detail according to how your personal/professional life evolves over these 6 months, but if you keep the general structure (Gateway → Agents/RAG → Evals/Observability → Narrative), you will have a very solid foundation for any future re-evaluation and for presenting yourself as a candidate for Staff/Systems Architect with AI roles.
-
-Sources
